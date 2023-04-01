@@ -138,7 +138,7 @@
 
 /* Server List Placement */
 .wrapper-1_HaEi {
-	width: 64px;
+	width: 80px;
 }
 .wrapper-1_HaEi [class^="scroller-"] {
 	background: var(--bg-overlay-1,var(--background-secondary-alt));
@@ -9276,7 +9276,7 @@ form .wrapper-2SplAX .lookFilled-1H2Jvj.colorPrimary-2-Lusz:hover {
 }
 /* Facebook */
 .connectedAccountIcon-2szOw-[src="/assets/32045743cb7670855ae726743c949e0c.svg"] {
-	filter: grayscale(1) invert(0.96) brightness(2);
+	filSeter: grayscale(1) invert(0.96) brightness(2);
 }
 /* League Of Legends */
 .connectedAccountIcon-2szOw-[src="/assets/94dc6f30a819026fa295d85f1f72b4ab.svg"] {
