@@ -144,12 +144,12 @@
 	background: var(--bg-overlay-1,var(--background-secondary-alt));
 }
 .wrapper-1_HaEi [class^="scroller-"] [class^="listItem-"] {
-	width: 48px;
+	width: 80px;
 	padding-left: 8px;
 }
 /* Server & DM's Separator */
 .wrapper-1_HaEi .guildSeparator-a4uisj {
-	width: 48px;
+	width: 80x;
 }
 /* Server List: Scrollbar */
 .wrapper-1_HaEi [class^="scroller-"]:hover::-webkit-scrollbar {
